@@ -1,2 +1,2 @@
 # cgpacalculator-
-Cgpa and cpa calculator 
+Cgpa and cpa calculator.
